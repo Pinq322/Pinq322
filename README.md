@@ -1,5 +1,4 @@
-<img src="https://i.pinimg.com/736x/03/6e/f5/036ef5f767cfe38743ac0d125bd14930.jpg" alt="Banner" width="100%" />
-<h1 align="center">Привет 👋, меня зовут Назар</h1>
+    <h1 align="center">Привет 👋, меня зовут Назар</h1>
 <h3 align="center">Junior Frontend / Web Developer</h3>
 
 ---
@@ -28,9 +27,8 @@
 ---
 
 ### 🌐 Социальные сети
-- 💬 Telegram: [ссылка]
-- 📸 Instagram: [ссылка]
-- 💼 LinkedIn: [ссылка]
+- 💬 Telegram: [https://t.me/tixaeye]
+- 📸 Instagram: [ссылка](https://www.instagram.com/hetz_322/]
 - 🌍 Портфолио: в разработке
 
 ---
