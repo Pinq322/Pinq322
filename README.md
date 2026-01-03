@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Nazar%20Frontend%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+
+
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">Junior Frontend / Web Developer</h3>
 
