@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Nazar%20Frontend%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://i.pinimg.com/736x/03/6e/f5/036ef5f767cfe38743ac0d125bd14930.jpg" alt="Banner" width="100%" />
 <h1 align="center">Привет 👋, меня зовут Назар</h1>
 <h3 align="center">Junior Frontend / Web Developer</h3>
 
